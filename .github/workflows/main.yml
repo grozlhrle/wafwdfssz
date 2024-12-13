@@ -1,4 +1,4 @@
-name: Server_Run
+name: Servers_Run
 on:
   push:
     branches:
